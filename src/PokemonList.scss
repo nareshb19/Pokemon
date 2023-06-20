@@ -1,0 +1,19 @@
+.pokemon-list {
+    background-color: lightblue;
+    padding: 20px;
+  
+    h1 {
+      color: white;
+      font-size: 24px;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+  
+      li {
+        margin-bottom: 5px;
+        font-size: 18px;
+      }
+    }
+  }
